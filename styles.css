@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+.D{
+    text-align: center;
+    margin: 40px;
+    padding: 20px;
+    background: lightslategray;
+    height: 1000px;
+    width: auto;
+}
+.navbar-default{
+    background-color: lightsteelblue;
+}
